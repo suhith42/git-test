@@ -1,0 +1,5 @@
+git add <file> or <.> - add to the stage
+git commit -m <message> - commit changes to the staging area
+git status - look at the status
+git remote add <variable to the link> <link> - link to a remote repo
+git push -u origin master
